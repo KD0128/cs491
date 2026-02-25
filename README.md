@@ -90,6 +90,19 @@ In this software engineering capstone course, students are developing web apps f
 * [2012](http://atlantis.seidenberg.pace.edu/wiki/gsd2012) (Video of [Recycletron](http://youtu.be/j7mAvdM-ph0))
 * [2011](http://atlantis.seidenberg.pace.edu/wiki/gsd2011)
 
+## Spring 2026 projects
+
+* [Team 1 - ](https://github.com/paceuniversity/cs491spring26team1)
+* [Team 2 - ](https://github.com/paceuniversity/cs491spring26team2)
+* [Team 3 - ](https://github.com/paceuniversity/cs491spring26team3)
+* [Team 4 - ](https://github.com/paceuniversity/cs491spring26team4)
+* [Team 5 - ](https://github.com/paceuniversity/cs491spring26team5)
+* [Team 6 - ](https://github.com/paceuniversity/cs491spring26team6)
+* [Team 7 - ](https://github.com/paceuniversity/cs491spring26team7)
+* [Team 8 - ](https://github.com/paceuniversity/cs491spring26team8)
+* [Team 9 - ](https://github.com/paceuniversity/cs491spring26team9)
+* [Team 10 - ](https://github.com/paceuniversity/cs491spring26team10)
+
 ## Fall 2025 projects
 
 * [Team 1 - SafeBridge](https://github.com/paceuniversity/cs491fall2025team1)
